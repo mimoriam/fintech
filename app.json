@@ -3,6 +3,7 @@
     "name": "fintech",
     "slug": "fintech",
     "version": "1.0.0",
+    "newArchEnabled": true,
 
     "scheme": "fintech",
     "web": {
